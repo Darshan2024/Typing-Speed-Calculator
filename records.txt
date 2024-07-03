@@ -1,0 +1,10 @@
+Date: 07-06-2021, Time: 11:09:04, Name: Akash Yeole, Speed: 26.79 wpm, Accuracy: 99.48%
+Date: 07-06-2021, Time: 18:01:58, Name: Akash Yeole, Speed: 35.28 wpm, Accuracy: 99.44%
+Date: 08-06-2021, Time: 10:59:52, Name: Akash Yeole, Speed: 25.62 wpm, Accuracy: 99.34%
+Date: 08-06-2021, Time: 11:06:09, Name: Akash Yeole, Speed: 29.3 wpm, Accuracy: 99.34%
+
+Date: 08-06-2021, Time: 11:27:25, Name: Darshan Ugale, Speed: 33.47 wpm, Accuracy: 99.21%
+Date: 12-06-2021, Time: 10:21:33, Name: Darshan Ugale, Speed: 28.17 wpm, Accuracy: 99.44%
+Date: 28-10-2022, Time: 19:43:54, Name: Darshan Ugale, Wrong Input!!, Accuracy: 36.22%
+Date: 28-10-2022, Time: 19:44:56, Name: Darshan Ugale, Wrong Input!!, Accuracy: 19.79%
+Date: 28-10-2022, Time: 19:45:45, Name: Darshan Ugale, Speed: 32.46 wpm, Accuracy: 99.21%
